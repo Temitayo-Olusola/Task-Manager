@@ -2,7 +2,7 @@
   A Task manager application built in Django which uses the integration of the djangorestframework to enable CRUD functionality.
 
 #Installation -
-  git clone https://github.com/Temitayo-Olusola/Task-Manager.git]
+  git clone https://github.com/Temitayo-Olusola/Task-Manager.git
 
 #dependencies - 
   pip install -r requirements.txt
