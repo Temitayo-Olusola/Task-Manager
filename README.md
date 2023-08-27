@@ -10,4 +10,5 @@
   python manage.py runserver
 
 #API Endpoints -
-  http://127.0.0.1/api/taskapp - create a task, delete a task, retrieve a task, update a task and list all tasks.
+  http://127.0.0.1/api/taskapp - Create a task, List all tasks.
+  http://127.0.0.1/api/taskapp/{{ task.id }} - Delete a task, Retrieve a task, and Update a task
