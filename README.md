@@ -11,4 +11,4 @@
 
 #API Endpoints -
   http://127.0.0.1/api/taskapp - Create a task, List all tasks.
-  http://127.0.0.1/api/taskapp/{{ task.id }} - Delete a task, Retrieve a task, and Update a task
+  http://127.0.0.1/api/taskapp/task.id  - Delete a task, Retrieve a task, and Update a task
